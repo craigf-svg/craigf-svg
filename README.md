@@ -7,7 +7,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=craigf-svg&show_icons=true&theme=algolia" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigf-svg&theme=algolia&size_weight=0.5&count_weight=0.5" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=craigf-svg&theme=algolia" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigf-svg&layout=compact&theme=algolia&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
 </p>
 <p align="center">
   <img id="preview" src="https://komarev.com/ghpvc/?username=craigf-svg&color=grey">
