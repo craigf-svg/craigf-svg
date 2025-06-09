@@ -1,8 +1,37 @@
+<h1 align="center">Welcome to my Profile!</h1>
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/420d31a4-3707-4ad2-a490-73451a9b4575" width="7%" >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=3b96dc&width=400&lines=Hello+there!;Welcome+to+my+profile!;Neovim+%2B+Lua+btw+:);Flask+%2B+HTMX+btw+:);By+the+way+'btw'+btw" alt="Typing SVG" />
-  <img src="https://github.com/user-attachments/assets/420d31a4-3707-4ad2-a490-73451a9b4575" width="7%">
+  <b>Software Engineer • UI Architect • Data Wrangler</b><br>
 </p>
+
+<p align="center">
+  <a href="https://github.com/craigf-svg/primeagen-dsa-notebook" target="_blank">
+    <img src="https://img.shields.io/badge/Python_Algos_Docs-Development_Phase-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=23272F"/>
+  </a>
+</p>
+
+---
+
+### 🧠 What I Do
+
+- 🛠️ **Development**: Build useful applications and resources
+- 🎨 **UI Architecture** — Design accessible, component-driven UIs • Emphasizing maintainability and user experience
+- 🌱 **Continuous Learning** — Expand knowledge through curriculum platforms like FrontendMasters
+- 🛠️ **Developer Tooling** — Neovim • Lua • Efficient plugin management and editor enhancements
+- 💻**Hosting & Deployment** - AWS (S3/EC2) • CI/CD • Cloudflare • GitHub Actions
+
+### 🔥 Tech Stack
+
+```yml
+Languages:   Python, JavaScript, SQL
+Frontend:    Svelte, React, TypeScript, CSS, HTMX
+Backend:     Flask, Node.js, MySQL
+Testing:     Pytest, Jest
+Design:      Accessible UI Patterns, Figma
+```
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=craigf-svg&show_icons=true&theme=algolia" />
 </p>
