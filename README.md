@@ -16,14 +16,14 @@
 
 - 🛠️ **Development**: Build useful applications and resources
 - 🎨 **UI Architecture** — Design accessible, component-driven UIs • Emphasizing maintainability and user experience
-- 🌱 **Continuous Learning** — Expand knowledge through curriculum platforms like FrontendMasters
+- 🌱 **Continuous Learning** — Learning from other developers through platforms like FrontendMasters
 - 🛠️ **Developer Tooling** — Neovim • Lua • Efficient plugin management and editor enhancements
-- 💻**Hosting & Deployment** - AWS (S3/EC2) • CI/CD • Cloudflare • GitHub Actions
+- 💻**Hosting & Deployment** - AWS • CI/CD • Cloudflare • GitHub Actions
 
 ### 🔥 Tech Stack
 
 ```yml
-Languages:   Python, JavaScript, SQL
+Languages:   JavaScript, Python, SQL
 Frontend:    Svelte, React, TypeScript, CSS, HTMX
 Backend:     Flask, Node.js, MySQL
 Testing:     Pytest, Jest
