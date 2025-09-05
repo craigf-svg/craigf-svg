@@ -23,10 +23,10 @@
 ### 🔥 Tech Stack
 
 ```yml
-Languages:   JavaScript, Python, SQL
-Frontend:    Svelte, React, TypeScript, CSS, HTMX
-Backend:     Flask, Node.js, MySQL
-Testing:     Pytest, Jest
+Languages:   JavaScript/TypeScript, SQL
+Frontend:    Svelte, React, CSS, HTMX
+Backend:     Node.js, MySQL
+Testing:     Playwright, Jest
 Design:      Accessible UI Patterns, Figma
 ```
 ---
