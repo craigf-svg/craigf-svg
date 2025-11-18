@@ -1,5 +1,16 @@
-<h3 align="center">Software Engineer</h3>
-<p>I build web applications.</p>
+<h1 align="center">Hi 👋 I'm a Software Engineer</h1>
+
+# 💫 About Me
+I'm a software engineer focused on building web and desktop applications. I specialize in frontend development with React. I primarily develop backend services using Node.js while expanding my skills in Go.
+
+## 🚀 What I'm Up To
+
+- 🕹️ Building a real-time Super Smash Bros. desktop [application](https://github.com/craigf-svg/ZKO20XX)
+- 💻 Developing applications using Go
+
+## 🌐 Connect with me
+
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-craigf--svg%40proton.me-6D4AFF?style=flat-square&logo=proton-mail&logoColor=white)](mailto:craigf-svg@proton.me)
 
 ---
 
