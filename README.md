@@ -6,7 +6,7 @@ I'm a software engineer focused on building web and desktop applications. I spec
 ## 🚀 What I'm Up To
 
 - 🕹️ Building a real-time Super Smash Bros. desktop [application](https://github.com/craigf-svg/ZKO20XX)
-- 💻 Developing applications using Go
+- 💻  Developing a CLI utility in Go for managing environment variables
 
 ## 🌐 Connect with me
 
