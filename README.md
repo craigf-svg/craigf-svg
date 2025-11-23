@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm a Software Engineer</h1>
 
 # 💫 About Me
-I'm a software engineer focused on building web and desktop applications. I specialize in frontend development with React. I primarily develop backend services using Node.js while expanding my skills in Go.
+I'm a software engineer focused on building web and desktop applications. I specialize in frontend development with React. I primarily develop backend services using Node.js and Go.
 
 ## 🚀 What I'm Up To
 
