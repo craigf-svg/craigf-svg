@@ -28,6 +28,7 @@ I'm a software engineer focused on building web and desktop applications. I spec
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-273849?style=for-the-badge&logo=node.js&logoColor=64b5f6)
 ![Go](https://img.shields.io/badge/Go-273849?style=for-the-badge&logo=go&logoColor=64b5f6)
+
 ---
 
 ### GitHub Stats
