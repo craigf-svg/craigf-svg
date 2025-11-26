@@ -32,12 +32,10 @@ I'm a software engineer focused on building web and desktop applications. I spec
 ---
 
 ### GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-green-eight-34.vercel.app/api?username=craigf-svg&show_icons=true&theme=algolia" />
+  <img src="https://github-readme-stats-green-eight-34.vercel.app/api?username=craigf-svg&show_icons=true&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-green-eight-34.vercel.app/api/top-langs/?username=craigf-svg&hide=python,css,html&layout=normal&theme=algolia&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
-</p>
-<p align="center">
-  <img id="preview" src="https://komarev.com/ghpvc/?username=craigf-svg&color=grey">
+  <img src="https://github-readme-stats-green-eight-34.vercel.app/api/top-langs/?username=craigf-svg&hide=python,css,html&layout=normal&theme=dark&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
 </p>
