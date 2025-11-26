@@ -10,7 +10,7 @@ I'm a software engineer focused on building web and desktop applications. I spec
 
 ## 🌐 Connect with me
 
-[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-craigf--svg%40proton.me-6D4AFF?style=flat-square&logo=proton-mail&logoColor=white)](mailto:craigf-svg@proton.me)
+[![Email](https://img.shields.io/badge/craigf--svg%40proton.me-273849?style=flat-square&logo=proton-mail&logoColor=64b5f6)](mailto:craigf-svg@proton.me)
 
 ---
 
