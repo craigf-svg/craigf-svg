@@ -34,8 +34,8 @@ I'm a software engineer focused on building web and desktop applications. I spec
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-green-eight-34.vercel.app/api?username=craigf-svg&show_icons=true&theme=vue-dark" />
+  <img src="https://github-readme-stats-green-eight-34.vercel.app/api?username=craigf-svg&show_icons=true&theme=vue-dark&title_color=64b5f6&icon_color=64b5f6" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-green-eight-34.vercel.app/api/top-langs/?username=craigf-svg&hide=python,css,html&layout=normal&theme=vue-dark&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
+  <img src="https://github-readme-stats-green-eight-34.vercel.app/api/top-langs/?username=craigf-svg&hide=python,css,html&layout=normal&theme=vue-dark&size_weight=0.5&count_weight=0.5&title_color=64b5f6" alt="Top Langs" />
 </p>
