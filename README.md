@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋 I'm a Software Engineer</h1>
+## Hi all! 👋
 
-# 💫 About Me
-I'm a software engineer focused on building web and desktop applications. I specialize in frontend development with React. I primarily develop backend services using Node.js and Go.
+I'm a software engineer focused on building web and desktop applications. 
+I've been coding in JavaScript primarily for 6 years and I'm learning Go at the moment.
 
-## 🚀 What I'm Up To
 
-- 🕹️ Building a real-time Super Smash Bros. desktop [application](https://github.com/craigf-svg/ZKO20XX)
+#### What I've Been Up To Recently
+
+- 🕹️ Building a real-time Super Smash Bros. companion desktop [application](https://github.com/craigf-svg/ZKO20XX)
 - 💻  Developing a CLI utility in Go for managing environment variables
-
-## 🌐 Connect with me
-
-[![Email](https://img.shields.io/badge/craigf--svg%40proton.me-273849?style=flat-square&logo=proton-mail&logoColor=64b5f6)](mailto:craigf-svg@proton.me)
 
 ---
 
