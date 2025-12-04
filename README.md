@@ -4,7 +4,7 @@ I'm a software engineer focused on building web and desktop applications.
 I've been coding in JavaScript primarily for 6 years and I'm learning Go at the moment.
 
 
-#### What I've Been Up To Recently
+### What I've Been Up To Recently
 
 - 🕹️ Building a real-time Super Smash Bros. companion that displays matchup data and KO moves based on opponent percentage
 - 💻 Developing [envlens](https://github.com/craigf-svg/envlens), a cross-platform TUI in Go (Bubble Tea) for inspecting and managing environment variables
